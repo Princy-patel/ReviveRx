@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'InterSemiBold';
+    src: url('fonts/InterSemiBold.eot');
+    src: url('fonts/InterSemiBold.eot') format('embedded-opentype'),
+         url('fonts/InterSemiBold.woff2') format('woff2'),
+         url('fonts/InterSemiBold.woff') format('woff'),
+         url('fonts/InterSemiBold.ttf') format('truetype'),
+         url('fonts/InterSemiBold.svg#InterSemiBold') format('svg');
+}

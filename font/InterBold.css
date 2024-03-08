@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'InterBold';
+    src: url('fonts/InterBold.eot');
+    src: url('fonts/InterBold.eot') format('embedded-opentype'),
+         url('fonts/InterBold.woff2') format('woff2'),
+         url('fonts/InterBold.woff') format('woff'),
+         url('fonts/InterBold.ttf') format('truetype'),
+         url('fonts/InterBold.svg#InterBold') format('svg');
+}
